@@ -1,14 +1,14 @@
-# Practica de Motores de Videojuegos I - UCIC ðŸŽ®
+# Practica de Motores de Videojuegos I - UCIC 
 
-## ðŸ§‘ Nombre del alumno/a:
+##  Nombre del alumno/a:
 **Nombre(s):** [Escribe aqui tu nombre de pila]  
 **Iniciales:** [Escribe aqui tus iniciales]
 
-## ðŸ—‚ï¸ Practica #
+##  Practica #
 **Ti­tulo de la practica:** [Ej. Movimiento del personaje]  
 **Fecha de entrega:** [dd/mm/aaaa]
 
-## ðŸ§  Descripcion
+##   Descripcion
 [Explica brevemente en quÃ© consiste la prÃ¡ctica, quÃ© hiciste y quÃ© aprendiste. Ejemplo: En esta prÃ¡ctica implementÃ© el movimiento de un personaje 2D usando Rigidbody2D y controles de teclado en Unity.]
 
 ## ðŸŽ® Instrucciones de uso
